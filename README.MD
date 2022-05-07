@@ -1,2 +1,1 @@
-## Outlier Removal of Indoor Environment for Massive Scanned Point Cloud  
- 
+## Out-of-core Outlier Removal for Large-scale Indoor Point clouds
