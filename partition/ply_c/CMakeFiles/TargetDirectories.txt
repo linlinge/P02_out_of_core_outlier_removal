@@ -1,0 +1,3 @@
+/media/i9/MyPassport/start/workspace/paper_massive/partition/ply_c/CMakeFiles/rebuild_cache.dir
+/media/i9/MyPassport/start/workspace/paper_massive/partition/ply_c/CMakeFiles/edit_cache.dir
+/media/i9/MyPassport/start/workspace/paper_massive/partition/ply_c/CMakeFiles/ply_c.dir

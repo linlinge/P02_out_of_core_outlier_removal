@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/llg/workspace/others/superpoint_graph/partition/solve_curvature/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -Dsolve_curvature_EXPORTS -I/usr/include/eigen3 -isystem ../pybind11/include -isystem /home/llg/anaconda3/include/python3.7m   -fopenmp -g -fPIC -fvisibility=hidden   -std=gnu++11 -o CMakeFiles/solve_curvature.dir/solve_curvature.cpp.o -c /home/llg/workspace/others/superpoint_graph/partition/solve_curvature/solve_curvature.cpp",
+  "file": "/home/llg/workspace/others/superpoint_graph/partition/solve_curvature/solve_curvature.cpp"
+}
+]
